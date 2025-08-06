@@ -4,4 +4,6 @@ public class Tarea{
     public DateTime FechaDeEntrega {private set; get;}
     public int ID {private set; get;}
     public string Prioridad {private set; get;}
+
+    public bool CreeLaTarea{private set; get;} 
 }
