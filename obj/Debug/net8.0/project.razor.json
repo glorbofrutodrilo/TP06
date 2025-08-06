@@ -19367,6 +19367,11 @@
       "FilePath": "z:\\2025\\programacion\\TP06\\TP06\\TP06\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "z:\\2025\\programacion\\TP06\\TP06\\TP06\\Views\\Home\\AgregarTarea.cshtml",
+      "TargetPath": "Views\\Home\\AgregarTarea.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.3"
