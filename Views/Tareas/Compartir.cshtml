@@ -1,0 +1,33 @@
+@{
+    ViewData["Title"] = "Compartir Tarea";
+}
+
+<div class="container">
+    <div class="header">
+        <h1>Compartir Tarea</h1>
+        <a href="@Url.Action("Index", "Tareas")" class="btn btn-secondary">Volver</a>
+    </div>
+
+    <div class="tarea-info">
+        <h3>@ViewBag.Tarea.Titulo</h3>
+        <p><strong>Descripción:</strong> @ViewBag.Tarea.Descripcion</p>
+        <p><strong>Fecha de entrega:</strong> @ViewBag.Tarea.FechaDeEntrega.ToString("dd/MM/yyyy")</p>
+        <p><strong>Prioridad:</strong> @ViewBag.Tarea.Prioridad</p>
+    </div>
+
+    <div class="form-container">
+        <form asp-action="Compartir" asp-controller="Tareas" method="post">
+            <input type="hidden" name="idTarea" value="@ViewBag.Tarea.ID">
+            
+            <div class="form-group">
+                <label for="emailUsuario">Email del usuario con quien compartir:</label>
+                <input type="email" id="emailUsuario" name="emailUsuario" required class="form-control" placeholder="usuario@ejemplo.com">
+            </div>
+
+            <div class="form-actions">
+                <button type="submit" class="btn btn-primary">Compartir Tarea</button>
+                <a href="@Url.Action("Index", "Tareas")" class="btn btn-secondary">Cancelar</a>
+            </div>
+        </form>
+    </div>
+</div> 

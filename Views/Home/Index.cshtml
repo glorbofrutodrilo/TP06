@@ -1,5 +1,53 @@
 ﻿@{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Gestor de Tareas";
 }
 
-<h1>Gestor de Tareas</h1>
+<div class="container">
+    <div class="header">
+        <h1>Gestor de Tareas</h1>
+        <p>Organiza y gestiona tus tareas de manera eficiente</p>
+    </div>
+
+    @if (ViewBag.Error != null)
+    {
+        <div class="alert alert-error">
+            @ViewBag.Error
+        </div>
+    }
+
+    <div class="auth-container">
+        <div class="auth-section">
+            <h2>Iniciar Sesión</h2>
+            <form asp-action="Login" asp-controller="Home" method="post">
+                <div class="form-group">
+                    <label for="loginEmail">Email:</label>
+                    <input type="email" id="loginEmail" name="Email" required class="form-control">
+                </div>
+                <div class="form-group">
+                    <label for="loginPassword">Contraseña:</label>
+                    <input type="password" id="loginPassword" name="Password" required class="form-control">
+                </div>
+                <button type="submit" class="btn btn-primary">Iniciar Sesión</button>
+            </form>
+        </div>
+
+        <div class="auth-section">
+            <h2>Registrarse</h2>
+            <form asp-action="Registrarse" asp-controller="Home" method="post">
+                <div class="form-group">
+                    <label for="regEmail">Email:</label>
+                    <input type="email" id="regEmail" name="Email" required class="form-control">
+                </div>
+                <div class="form-group">
+                    <label for="regUsername">Nombre de Usuario:</label>
+                    <input type="text" id="regUsername" name="Username" required class="form-control">
+                </div>
+                <div class="form-group">
+                    <label for="regPassword">Contraseña:</label>
+                    <input type="password" id="regPassword" name="Password" required class="form-control">
+                </div>
+                <button type="submit" class="btn btn-secondary">Registrarse</button>
+            </form>
+        </div>
+    </div>
+</div>

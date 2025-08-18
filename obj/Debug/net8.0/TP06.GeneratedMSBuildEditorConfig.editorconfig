@@ -9,47 +9,47 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TP06
 build_property.RootNamespace = TP06
-build_property.ProjectDir = z:\2025\programacion\TP06\TP06\TP06\
+build_property.ProjectDir = Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = z:\2025\programacion\TP06\TP06\TP06
+build_property.MSBuildProjectDirectory = Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06
 build_property._RazorSourceGeneratorDebug = 
 
-[z:/2025/programacion/TP06/TP06/TP06/Views/Home/AgregarTarea.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZ3JlZ2FyVGFyZWEuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[z:/2025/programacion/TP06/TP06/TP06/Views/Home/Index.cshtml]
+[Z:/2025/programacion/TP06_EN_CASA/TP06/TP06/TP06/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[z:/2025/programacion/TP06/TP06/TP06/Views/Home/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[z:/2025/programacion/TP06/TP06/TP06/Views/Home/Registrarse.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3RyYXJzZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[z:/2025/programacion/TP06/TP06/TP06/Views/Home/Tareas.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUYXJlYXMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[z:/2025/programacion/TP06/TP06/TP06/Views/Shared/_Layout.cshtml]
+[Z:/2025/programacion/TP06_EN_CASA/TP06/TP06/TP06/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[z:/2025/programacion/TP06/TP06/TP06/Views/Shared/_ValidationScriptsPartial.cshtml]
+[Z:/2025/programacion/TP06_EN_CASA/TP06/TP06/TP06/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[z:/2025/programacion/TP06/TP06/TP06/Views/_ViewImports.cshtml]
+[Z:/2025/programacion/TP06_EN_CASA/TP06/TP06/TP06/Views/Tareas/Agregar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFzXEFncmVnYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/2025/programacion/TP06_EN_CASA/TP06/TP06/TP06/Views/Tareas/Compartir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFzXENvbXBhcnRpci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/2025/programacion/TP06_EN_CASA/TP06/TP06/TP06/Views/Tareas/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFzXEVkaXRhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/2025/programacion/TP06_EN_CASA/TP06/TP06/TP06/Views/Tareas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/2025/programacion/TP06_EN_CASA/TP06/TP06/TP06/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[z:/2025/programacion/TP06/TP06/TP06/Views/_ViewStart.cshtml]
+[Z:/2025/programacion/TP06_EN_CASA/TP06/TP06/TP06/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

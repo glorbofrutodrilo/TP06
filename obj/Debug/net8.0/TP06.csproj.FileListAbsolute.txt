@@ -79,3 +79,165 @@ Z:\2025\programacion\TP06\TP06\TP06\obj\Debug\net8.0\refint\TP06.dll
 Z:\2025\programacion\TP06\TP06\TP06\obj\Debug\net8.0\TP06.pdb
 Z:\2025\programacion\TP06\TP06\TP06\obj\Debug\net8.0\TP06.genruntimeconfig.cache
 Z:\2025\programacion\TP06\TP06\TP06\obj\Debug\net8.0\ref\TP06.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\appsettings.Development.json
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\appsettings.json
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\TP06.staticwebassets.runtime.json
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\TP06.exe
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\TP06.deps.json
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\TP06.runtimeconfig.json
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\TP06.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\TP06.pdb
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\Azure.Core.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\Azure.Identity.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\Dapper.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\System.ClientModel.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\System.Memory.Data.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\TPs Programacion\TP06\TP06\TP06\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\TPs Programacion\TP06\TP06\TP06\obj\Debug\net8.0\TP06.csproj.AssemblyReference.cache
+E:\TPs Programacion\TP06\TP06\TP06\obj\Debug\net8.0\TP06.GeneratedMSBuildEditorConfig.editorconfig
+E:\TPs Programacion\TP06\TP06\TP06\obj\Debug\net8.0\TP06.AssemblyInfoInputs.cache
+E:\TPs Programacion\TP06\TP06\TP06\obj\Debug\net8.0\TP06.AssemblyInfo.cs
+E:\TPs Programacion\TP06\TP06\TP06\obj\Debug\net8.0\TP06.csproj.CoreCompileInputs.cache
+E:\TPs Programacion\TP06\TP06\TP06\obj\Debug\net8.0\TP06.MvcApplicationPartsAssemblyInfo.cache
+E:\TPs Programacion\TP06\TP06\TP06\obj\Debug\net8.0\TP06.RazorAssemblyInfo.cache
+E:\TPs Programacion\TP06\TP06\TP06\obj\Debug\net8.0\TP06.RazorAssemblyInfo.cs
+E:\TPs Programacion\TP06\TP06\TP06\obj\Debug\net8.0\TP06.sourcelink.json
+E:\TPs Programacion\TP06\TP06\TP06\obj\Debug\net8.0\staticwebassets.build.json
+E:\TPs Programacion\TP06\TP06\TP06\obj\Debug\net8.0\staticwebassets.development.json
+E:\TPs Programacion\TP06\TP06\TP06\obj\Debug\net8.0\staticwebassets\msbuild.TP06.Microsoft.AspNetCore.StaticWebAssets.props
+E:\TPs Programacion\TP06\TP06\TP06\obj\Debug\net8.0\staticwebassets\msbuild.build.TP06.props
+E:\TPs Programacion\TP06\TP06\TP06\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TP06.props
+E:\TPs Programacion\TP06\TP06\TP06\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TP06.props
+E:\TPs Programacion\TP06\TP06\TP06\obj\Debug\net8.0\staticwebassets.pack.json
+E:\TPs Programacion\TP06\TP06\TP06\obj\Debug\net8.0\scopedcss\bundle\TP06.styles.css
+E:\TPs Programacion\TP06\TP06\TP06\obj\Debug\net8.0\TP06.csproj.Up2Date
+E:\TPs Programacion\TP06\TP06\TP06\obj\Debug\net8.0\TP06.dll
+E:\TPs Programacion\TP06\TP06\TP06\obj\Debug\net8.0\refint\TP06.dll
+E:\TPs Programacion\TP06\TP06\TP06\obj\Debug\net8.0\TP06.pdb
+E:\TPs Programacion\TP06\TP06\TP06\obj\Debug\net8.0\TP06.genruntimeconfig.cache
+E:\TPs Programacion\TP06\TP06\TP06\obj\Debug\net8.0\ref\TP06.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\appsettings.Development.json
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\appsettings.json
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\TP06.staticwebassets.runtime.json
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\TP06.exe
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\TP06.deps.json
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\TP06.runtimeconfig.json
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\TP06.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\TP06.pdb
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\Azure.Core.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\Azure.Identity.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\Dapper.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\Newtonsoft.Json.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\System.ClientModel.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\System.Memory.Data.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\obj\Debug\net8.0\TP06.csproj.AssemblyReference.cache
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\obj\Debug\net8.0\TP06.GeneratedMSBuildEditorConfig.editorconfig
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\obj\Debug\net8.0\TP06.AssemblyInfoInputs.cache
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\obj\Debug\net8.0\TP06.AssemblyInfo.cs
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\obj\Debug\net8.0\TP06.csproj.CoreCompileInputs.cache
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\obj\Debug\net8.0\TP06.MvcApplicationPartsAssemblyInfo.cache
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\obj\Debug\net8.0\TP06.RazorAssemblyInfo.cache
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\obj\Debug\net8.0\TP06.RazorAssemblyInfo.cs
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\obj\Debug\net8.0\TP06.sourcelink.json
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\obj\Debug\net8.0\staticwebassets.build.json
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\obj\Debug\net8.0\staticwebassets.development.json
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\obj\Debug\net8.0\staticwebassets\msbuild.TP06.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\obj\Debug\net8.0\staticwebassets\msbuild.build.TP06.props
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TP06.props
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TP06.props
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\obj\Debug\net8.0\scopedcss\bundle\TP06.styles.css
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\obj\Debug\net8.0\TP06.csproj.Up2Date
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\obj\Debug\net8.0\TP06.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\obj\Debug\net8.0\refint\TP06.dll
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\obj\Debug\net8.0\TP06.pdb
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\obj\Debug\net8.0\TP06.genruntimeconfig.cache
+Z:\2025\programacion\TP06_EN_CASA\TP06\TP06\TP06\obj\Debug\net8.0\ref\TP06.dll

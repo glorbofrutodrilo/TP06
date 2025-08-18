@@ -1,0 +1,45 @@
+@{
+    ViewData["Title"] = "Agregar Tarea";
+}
+
+<div class="container">
+    <div class="header">
+        <h1>Agregar Nueva Tarea</h1>
+        <a href="@Url.Action("Index", "Tareas")" class="btn btn-secondary">Volver</a>
+    </div>
+
+    <div class="form-container">
+        <form asp-action="Agregar" asp-controller="Tareas" method="post">
+            <div class="form-group">
+                <label for="titulo">Título:</label>
+                <input type="text" id="titulo" name="titulo" required class="form-control">
+            </div>
+
+            <div class="form-group">
+                <label for="descripcion">Descripción:</label>
+                <textarea id="descripcion" name="descripcion" required class="form-control" rows="4"></textarea>
+            </div>
+
+            <div class="form-group">
+                <label for="fechaDeEntrega">Fecha de Entrega:</label>
+                <input type="date" id="fechaDeEntrega" name="fechaDeEntrega" required class="form-control">
+            </div>
+
+            <div class="form-group">
+                <label for="prioridad">Prioridad:</label>
+                <select id="prioridad" name="prioridad" required class="form-control">
+                    <option value="">Selecciona una prioridad</option>
+                    <option value="Baja">Baja</option>
+                    <option value="Media">Media</option>
+                    <option value="Alta">Alta</option>
+                    <option value="Urgente">Urgente</option>
+                </select>
+            </div>
+
+            <div class="form-actions">
+                <button type="submit" class="btn btn-primary">Crear Tarea</button>
+                <a href="@Url.Action("Index", "Tareas")" class="btn btn-secondary">Cancelar</a>
+            </div>
+        </form>
+    </div>
+</div> 

@@ -1,0 +1,74 @@
+@{
+    ViewData["Title"] = "Editar Tarea";
+}
+
+<div class="container">
+    <div class="header">
+        <h1>Editar Tarea</h1>
+        <a href="@Url.Action("Index", "Tareas")" class="btn btn-secondary">Volver</a>
+    </div>
+
+    <div class="form-container">
+        <form asp-action="Editar" asp-controller="Tareas" method="post">
+            <input type="hidden" name="id" value="@ViewBag.Tarea.ID">
+            
+            <div class="form-group">
+                <label for="titulo">Título:</label>
+                <input type="text" id="titulo" name="titulo" value="@ViewBag.Tarea.Titulo" required class="form-control">
+            </div>
+
+            <div class="form-group">
+                <label for="descripcion">Descripción:</label>
+                <textarea id="descripcion" name="descripcion" required class="form-control" rows="4">@ViewBag.Tarea.Descripcion</textarea>
+            </div>
+
+            <div class="form-group">
+                <label for="fechaDeEntrega">Fecha de Entrega:</label>
+                <input type="date" id="fechaDeEntrega" name="fechaDeEntrega" value="@ViewBag.Tarea.FechaDeEntrega.ToString("yyyy-MM-dd")" required class="form-control">
+            </div>
+
+            <div class="form-group">
+                <label for="prioridad">Prioridad:</label>
+                <select id="prioridad" name="prioridad" required class="form-control">
+                    @if (ViewBag.Tarea.Prioridad == "Baja")
+                    {
+                        <option value="Baja" selected>Baja</option>
+                    }
+                    else
+                    {
+                        <option value="Baja">Baja</option>
+                    }
+                    @if (ViewBag.Tarea.Prioridad == "Media")
+                    {
+                        <option value="Media" selected>Media</option>
+                    }
+                    else
+                    {
+                        <option value="Media">Media</option>
+                    }
+                    @if (ViewBag.Tarea.Prioridad == "Alta")
+                    {
+                        <option value="Alta" selected>Alta</option>
+                    }
+                    else
+                    {
+                        <option value="Alta">Alta</option>
+                    }
+                    @if (ViewBag.Tarea.Prioridad == "Urgente")
+                    {
+                        <option value="Urgente" selected>Urgente</option>
+                    }
+                    else
+                    {
+                        <option value="Urgente">Urgente</option>
+                    }
+                </select>
+            </div>
+
+            <div class="form-actions">
+                <button type="submit" class="btn btn-primary">Guardar Cambios</button>
+                <a href="@Url.Action("Index", "Tareas")" class="btn btn-secondary">Cancelar</a>
+            </div>
+        </form>
+    </div>
+</div> 
