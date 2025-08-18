@@ -7,7 +7,6 @@ public class TareasController : Controller
 {
     public IActionResult Index()
     {
-        // Verificar si el usuario está logueado
         string usuarioStr = HttpContext.Session.GetString("integrante");
         if (string.IsNullOrEmpty(usuarioStr))
         {

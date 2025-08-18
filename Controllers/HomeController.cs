@@ -15,7 +15,6 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        // Verificar si ya está logueado
         string usuarioStr = HttpContext.Session.GetString("integrante");
         if (!string.IsNullOrEmpty(usuarioStr))
         {
